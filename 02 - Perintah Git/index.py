@@ -80,4 +80,4 @@
 # - D deleted = dihapus
 # - M modified = diubah
 
-function main() #adding for commit purpose
+# function main() #adding for commit purpose
