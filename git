@@ -1,0 +1,14 @@
+[1mdiff --git a/02 - Perintah Git/index.py b/02 - Perintah Git/index.py[m
+[1mindex 3827ae5..adb02da 100644[m
+[1m--- a/02 - Perintah Git/index.py[m	
+[1m+++ b/02 - Perintah Git/index.py[m	
+[36m@@ -78,4 +78,6 @@[m
+ [m
+ # - U untrack = belum di commit[m
+ # - D deleted = dihapus[m
+[31m-# - M modified = diubah[m
+\ No newline at end of file[m
+[32m+[m[32m# - M modified = diubah[m
+[32m+[m
+[32m+[m[32mfunction main() #adding for commit purpose[m
+\ No newline at end of file[m
